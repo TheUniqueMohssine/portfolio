@@ -14,7 +14,7 @@ Building modern web experiences with clean code, interactive animations, and imm
 
 👉 **Visit my portfolio**
 
-https://your-site.netlify.app
+https://tubular-tartufo-670a24.netlify.app/poertfolio.html
 
 ---
 
@@ -54,7 +54,7 @@ https://your-site.netlify.app
 
 <p align="center">
 
-<img src="preview.png" width="100%">
+<img src="img.png" width="100%">
 
 </p>
 
